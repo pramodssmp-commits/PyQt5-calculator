@@ -20,9 +20,9 @@ A simple calculator application built using **Python and PyQt5** with a graphica
 
 ## 📂 Project Structure
 
-PyQt5-calculator/
-│
-└── calculator.py
+PyQt5-calculator
+
+calculator.py
 
 ▶️ How to Run
 1. Install Python
